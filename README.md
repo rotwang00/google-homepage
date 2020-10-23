@@ -1,0 +1,1 @@
+A non-functional imitation of the Google homepage.
